@@ -1,0 +1,130 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+header {
+    margin-top: -20px;
+    height: 60px;
+    background-color: #686b70;
+    width: 100vw;
+    color: white;
+}
+header ul {
+    padding-bottom: 30px;
+    margin-top: -65px;
+    margin-right: 20px;
+    
+    
+    
+
+}
+header ul li {
+    display: inline-block;
+    float: right;
+    
+    margin-top: 0px;
+    margin-right: 20px;
+    padding: 20px;
+    
+}
+header h2 {
+    margin-left: 50px;
+    padding-top: 17px;
+    font-size: 150%;
+    letter-spacing: 5px;
+    font-family: sans-serif;
+}
+.title-box {
+    height: 300px;
+    width: 100vw;
+    color: #efea4a;
+    text-align: center;
+    padding-top: 80px;
+    background-color: black;
+    
+
+}
+h1 {
+    font-size: 500%;
+}
+
+.three-box, .two-box {
+    width: 100%;
+    margin-bottom: 0px;
+
+}
+
+.green-box {
+    margin-top: 40px;
+    margin-left: 12vw;
+    width: 20vw;
+    height: 250px;
+    background-color: #9ae2e0;
+    display: inline-block;
+  
+    border-radius: 15px;
+}
+#left-green-box, #left-orange-box {
+    margin-left: 0px;
+}
+#clearGreen {
+    overflow: auto;
+    height: 400px;
+    width: 100vw;
+}
+.orange-box {
+    width: 39vw;
+    margin-left: 6vw;
+    margin-top: 38px;
+    height: 250px;
+    background-color: #f2b56f;
+    display: inline-block;
+}
+.content-wrapper {
+    margin-left: 8vw;
+    padding: 0;
+    width: 86vw;
+}
+.bottom-box {
+    
+    position: relative;
+}
+.bottom-boxes {
+    width: 30vw;
+    display: inline-block;
+    
+
+}
+#image-wrapper {
+    height: 200px;
+    width: 25vw;
+    background-image: url("elf.jpg");
+    display: inline-block;
+    background-position: center;
+    background-size: cover;
+    
+}
+#text-box {
+    margin-left: 8vh;
+    
+    position: absolute;
+    top: 75px;
+    left: 0px;
+
+    
+}
+#image-box {
+    margin-left: 37.5vh;
+    margin-top: 75px;
+    position: absolute;
+    top: -20px;
+    right: 45px;
+}
+
+footer {
+    width: 100vw;
+    height: 100px;
+    background-color: #53556d;
+    margin-top: 300px;
+    
+}
